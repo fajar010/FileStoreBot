@@ -1,5 +1,5 @@
 {
-  "name": "FileStoreBot @AvishkarPatil",
+  "name": "FileStoreBot",
   "description": "Telegram Media FIles Document Storing and Permanat Link Bot",
   "keywords": [
     "telegram",
@@ -17,15 +17,15 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Your bot token, as a string.",
+      "description": "6866691866:AAG0mJFvynbI5zIUy7wRyDHL2Qf1zRXe7f0",
       "value": ""
     },
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "20876060",
       "value": ""
     },
     "DB_CHANNEL_ID": {
-      "description": "give me the telegram channel ID here (better this should be private channel)",
+      "description": "-1002061150085",
       "value": ""
     },
     "UPDATE_CHANNEL": {
@@ -34,11 +34,11 @@
       "required": false
     },
     "OWNER_ID": {
-      "description": "give your telegram user id here",
+      "description": "1001155110",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "128529002d9337ab5cb5817c4be9100f",
       "value": ""
     },
     "AUTH_USERS": {
